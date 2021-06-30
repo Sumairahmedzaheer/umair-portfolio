@@ -71,7 +71,7 @@ text-decoration: none;
 /* home section styling */
 .home{
     display: flex;
-    background: url(/public/images/j4t0DI.jpg);
+    background: url(/images/j4t0DI.jpg);
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -267,6 +267,9 @@ section{
         display: flex;
         justify-content: center;
         margin: 0 auto 60px;
+    }
+    .about .about-content .right{
+        flex: 100%;
     }
 }
 
