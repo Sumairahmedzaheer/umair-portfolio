@@ -122,7 +122,7 @@ html{
 /* home section styling */
 .home {
     display: flex;
-    background: url(/images/j4t0DI.jpg) no-repeat center;   
+    background: url(/public/images/j4t0DI.jpg) no-repeat center;   
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -134,7 +134,7 @@ html{
 }
 
 .home .home-content .text-1{
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .home .home-content .text-2{
